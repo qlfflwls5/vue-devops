@@ -2,6 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <h2>테스트 성공</h2>
+    <h2>Jenkins도 성공</h2>
     <p>
       For a guide and recipes on how to configure / customize this project,<br />
       check out the
